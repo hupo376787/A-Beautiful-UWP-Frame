@@ -1,0 +1,2 @@
+MainPackage=E:\Universal Windows Platform\Store\Hummingbird\Hummingbird\bin\x86\Release\Upload\Hummingbird_2018.1.8.0_x86.appx
+SymbolPackage=E:\Universal Windows Platform\Store\Hummingbird\Hummingbird\bin\x86\Release\Upload\Hummingbird_2018.1.8.0\Hummingbird_2018.1.8.0_x86.appxsym

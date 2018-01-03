@@ -1,0 +1,7 @@
+MainPackage=E:\Universal Windows Platform\Store\Hummingbird\Hummingbird\bin\ARM\Release\Hummingbird_2018.1.8.0_ARM.appx
+SymbolPackage=E:\Universal Windows Platform\Store\Hummingbird\Hummingbird\AppPackages\Hummingbird_2018.1.8.0_Test\Hummingbird_2018.1.8.0_ARM.appxsym
+ResourcePack=E:\Universal Windows Platform\Store\Hummingbird\Hummingbird\bin\ARM\Release\Hummingbird_2018.1.8.0_language-zh-hans.appx
+ResourcePack=E:\Universal Windows Platform\Store\Hummingbird\Hummingbird\bin\ARM\Release\Hummingbird_2018.1.8.0_scale-100.appx
+ResourcePack=E:\Universal Windows Platform\Store\Hummingbird\Hummingbird\bin\ARM\Release\Hummingbird_2018.1.8.0_scale-125.appx
+ResourcePack=E:\Universal Windows Platform\Store\Hummingbird\Hummingbird\bin\ARM\Release\Hummingbird_2018.1.8.0_scale-150.appx
+ResourcePack=E:\Universal Windows Platform\Store\Hummingbird\Hummingbird\bin\ARM\Release\Hummingbird_2018.1.8.0_scale-400.appx

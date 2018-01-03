@@ -1,0 +1,30 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="15.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <PropertyGroup>
+    <Source>D:\Program Files %28x86%29\AWicons Pro\图标\千库网\SNS\Twitter512.png</Source>
+    <SmallTileSource>D:\Program Files %28x86%29\AWicons Pro\图标\千库网\SNS\Twitter512.png</SmallTileSource>
+    <MediumTileSource>D:\Program Files %28x86%29\AWicons Pro\图标\千库网\SNS\Twitter512.png</MediumTileSource>
+    <WideTileSource>D:\Program Files %28x86%29\AWicons Pro\图标\千库网\SNS\Twitter512.png</WideTileSource>
+    <LargeTileSource>D:\Program Files %28x86%29\AWicons Pro\图标\千库网\SNS\Twitter512.png</LargeTileSource>
+    <AppIconSource>D:\Program Files %28x86%29\AWicons Pro\图标\千库网\SNS\Twitter512.png</AppIconSource>
+    <SplashScreenSource>D:\Program Files %28x86%29\AWicons Pro\图标\千库网\SNS\Twitter512.png</SplashScreenSource>
+    <BadgeLogoSource>D:\Program Files %28x86%29\AWicons Pro\图标\千库网\SNS\Twitter512.png</BadgeLogoSource>
+    <PackageLogoSource>D:\Program Files %28x86%29\AWicons Pro\图标\千库网\SNS\Twitter512.png</PackageLogoSource>
+    <AppxShowAllApps>False</AppxShowAllApps>
+    <AppxPackageIsForStore>True</AppxPackageIsForStore>
+    <AppxBuildConfigurationSelection>x86|x64|arm</AppxBuildConfigurationSelection>
+    <PackageOptionalProjectsInIdeBuilds>False</PackageOptionalProjectsInIdeBuilds>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Release|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|x86'">
+    <DeviceId>7C3F55B7-619D-452D-B6B0-A4A36BC552CC</DeviceId>
+    <UseEmulator>false</UseEmulator>
+  </PropertyGroup>
+  <PropertyGroup Condition="'$(Configuration)|$(Platform)' == 'Debug|ARM'">
+    <DeviceId>30F105C9-681E-420b-A277-7C086EAD8A4E</DeviceId>
+    <UseEmulator>true</UseEmulator>
+  </PropertyGroup>
+</Project>
