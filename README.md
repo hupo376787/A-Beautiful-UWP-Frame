@@ -1,4 +1,8 @@
 # A-Beautiful-UWP-Frame
+
+This project is obsolete, and I've moved to Flutter, not uwp any more.
+这个项目已经过时，我也转向谷歌的Flutter开发，不再做uwp了。
+
 A Beautiful UWP Frame, maybe the most beautiful one.
 
 More details refer to http://www.cnblogs.com/hupo376787/p/8186228.html
